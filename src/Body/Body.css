@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+#zuri__team{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+#btn__zuri{
+    width: 80%;
+    background: rgb(224, 219, 219);
+    color: #000;
+    padding: 0.8rem;
+    border-radius: 5px;
+    border: rgb(224, 219, 219);
+    font-size: 12px;
+    font-family: Poppins, sans-serif;
+    font-weight: 200;
+}
+
+#btn__zuri:hover{
+    background-color: #000;
+    color: #fff;
+}

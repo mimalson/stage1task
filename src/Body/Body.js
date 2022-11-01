@@ -5,7 +5,7 @@ import './Body.css'
 const Body = () => {
   return (
     <div>
-       <a id='zuri__team' href='https://training.zuri.team/'>
+       <a id='zuri__team' href='https://twitter.com/simply_meenat/'>
          <button id='btn__zuri'>Twitter Link</button>
        </a>
        <br></br>

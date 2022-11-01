@@ -6,8 +6,8 @@ import './Bottom.css'
 const Bottom = () => {
   return (
     <div id='bottom'>
-       <img src={slack}/>
-       <img src={github}/>
+       <img src={slack} alt='slack'/>
+       <img src={github} alt='git'/>
     </div>
   )
 }

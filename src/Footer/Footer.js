@@ -6,9 +6,9 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div id='footer'>
-       <img src={zuri}/>
+       <img src={zuri} alt='rri'/>
        <h1>HNG Internship 9 Frontend Task</h1>
-       <img src={ingressive}/>
+       <img src={ingressive} alt='ingressi'/>
     </div>
   )
 }

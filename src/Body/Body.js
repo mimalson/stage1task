@@ -20,7 +20,7 @@ const Body = () => {
        </a>
        <br></br>
 
-       <a id='zuri__team' href='https://training.zuri.team/'>
+       <a id='zuri__team' href='https://books.zuri.team/python-for-beginners?ref_id=%3Cmysticwillz%3E'>
          <button id='btn__zuri'>Python Books</button>
        </a>
        <br></br>
@@ -30,7 +30,7 @@ const Body = () => {
        </a>
        <br></br>
 
-       <a id='zuri__team' href='https://training.zuri.team/'>
+       <a id='zuri__team' href='https://books.zuri.team/design-rules/'>
          <button id='btn__zuri'>Design Books</button>
        </a>
     </div>

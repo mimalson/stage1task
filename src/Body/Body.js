@@ -15,7 +15,7 @@ const Body = () => {
        </a>
        <br></br>
 
-       <a id='zuri__team' href='https://training.zuri.team/'>
+       <a id='zuri__team' href='https://books.zuri.team/'>
          <button id='btn__zuri'>Zuri Books</button>
        </a>
        <br></br>

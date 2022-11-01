@@ -8,6 +8,7 @@ const header = () => {
     <header>
         <div id='menu'>
             <img className='menus' src={MENU} alt='menu DP'/>
+        </div>
         <div className='header-div'>
             <img className='profile__img' src={ME} alt='profile DP'/>
             <h1 className='name'> Anjelina Jolie</h1>
